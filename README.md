@@ -24,6 +24,11 @@ The workspace contains two folders by default, where:
 - `src`: the folder to maintain sources
 - `test`: the folder to maintain unit and functionnal tests
 
+### Commands Files
+
+- `compile` for compiling, place dependencies in a folder call `lib` before.
+- `run` for running the mini-game
+
 ### Dependencies
 
 - OpenNI
