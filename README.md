@@ -27,7 +27,7 @@ The workspace contains two folders by default, where:
 ### Commands Files
 
 - `compile` for compiling, place dependencies in a folder call `lib` before.
-- `run` for running the mini-game
+- `run` for running the mini-game, place the dependencies in a folder call `lib` before.
 
 ### Dependencies
 
