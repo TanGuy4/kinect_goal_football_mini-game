@@ -1,14 +1,38 @@
-## Getting Started
+# Kinect Mini-Games : Football Goal
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## The Game (or Mini-Game)
 
-## Folder Structure
+### Getting Started
+
+Welcome to Football Goal Kinect Mini-Game. This mini-game is coded in Java and use OpenNI, and PrimeSense Driver for Kinect v1 (Xbox 360 Kinect).
+
+### Requirements
+
+- A Kinect v1 (Xbox 360 Kinect)
+- Java Runtime (JRE) v8
+
+### Gameplay
+
+You are a goal in a football team, your objective is to stop the ball with your whole body, fot his you will need to move in front of your Kinect.
+
+## For Developpers
+
+### Folder Structure
 
 The workspace contains two folders by default, where:
 
 - `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+- `test`: the folder to maintain unit and functionnal tests
 
-## Dependency Management
+### Dependencies
 
-The `JAVA DEPENDENCIES` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-pack/blob/master/release-notes/v0.9.0.md#work-with-jar-files-directly).
+- OpenNI
+- NITE PrimeSense
+- JUnit v4.13.1 (For Unit Tests Only)
+
+## Special Thanks
+
+to :
+
+- Dr. Andrew Davidson author of Killer Game Programming in Java and many other programming books.
+- My Friends and Familly for helping in test, and supporting everyday
