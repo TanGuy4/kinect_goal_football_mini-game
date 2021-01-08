@@ -24,6 +24,10 @@ The workspace contains two folders by default, where:
 - `src`: the folder to maintain sources
 - `test`: the folder to maintain unit and functionnal tests
 
+When you compile there is a `bin` directory created.
+
+And Create a `lib` directory in which you add dependecies (see below).
+
 ### Commands Files
 
 - `compile` for compiling, place dependencies in a folder call `lib` before.
@@ -31,9 +35,9 @@ The workspace contains two folders by default, where:
 
 ### Dependencies
 
-- OpenNI
-- NITE PrimeSense
-- JUnit v4.13.1 (For Unit Tests Only)
+- OpenNI (filename: org.OpenNI.jar)
+- NITE PrimeSense (filename: com.primesense.NITE.jar)
+- JUnit v4.13.1 (For Unit Tests Only) (filename: junit-4.13.1.jar)
 
 ## Special Thanks
 
