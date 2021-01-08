@@ -43,5 +43,5 @@ And Create a `lib` directory in which you add dependecies (see below).
 
 to :
 
-- Dr. Andrew Davidson author of Killer Game Programming in Java and many other programming books.
+- Andrew Davison author of Killer Game Programming in Java and many other programming books.
 - My Friends and Familly for helping in test, and supporting everyday
