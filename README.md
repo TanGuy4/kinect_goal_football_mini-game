@@ -9,7 +9,16 @@ Welcome to Football Goal Kinect Mini-Game. This mini-game is coded in Java and u
 ### Requirements
 
 - A Kinect v1 (Xbox 360 Kinect)
+- SensorKinect Driver (If you don't have it installed see Installation section below.)
+- OpenNI (If you don't have it installed see Installation section below.)
+- NITE (If you don't have it installed see Installation section below.)
 - Java Runtime (JRE) v8
+
+### Installation
+
+#### Windows
+
+See [OPEN_NI_INSTALL_WIN.md](./OPEN_NI_INSTALL_WIN.md)
 
 ### Gameplay
 
